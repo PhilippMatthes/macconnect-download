@@ -2,10 +2,6 @@
 
 Welcome to the official download page of Mac Connect!
 
-## Why is this project not in the Mac App Store?
-
-Since 2012, the Mac App Store requires all apps to be *sandboxed*. This means, that they are restricted to perform actions, which do not directly affect other apps or the system. Since this app needs to send *key presses* to the system, it requires not to be sandboxed. Because of that, it is not possible for us to submit this app to the Mac App Store.
-
 # How to install Mac Connect
 
 To install Mac Connect, follow these easy steps. Firstly, visit the [release page](https://github.com/PhilippMatthes/macconnect-download/releases):
@@ -21,6 +17,10 @@ Drag Mac Connect to your Applications folder. Locate macconnect-mac in your Appl
 ![Tutorial: App](tutorial-slides/menu.png?raw=true "Title")
 
 Having started the app, you will see it in the menu bar. Read your code and start your iOS Mac Connect App. You are now ready to connect.
+
+## Why is this project not in the Mac App Store?
+
+Since 2012, the Mac App Store requires all apps to be *sandboxed*. This means, that they are restricted to perform actions, which do not directly affect other apps or the system. Since this app needs to send *key presses* to the system, it requires not to be sandboxed. Because of that, it is not possible for us to submit this app to the Mac App Store.
 
 ## Troubleshooting
 
