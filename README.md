@@ -2,7 +2,7 @@
 
 Welcome to the official download page of Salut!
 
-# How to install Mac Connect
+# How to install Salut!
 
 To install Salut, follow these easy steps. Firstly, visit the [release page](https://github.com/PhilippMatthes/salut-download/releases):
 
